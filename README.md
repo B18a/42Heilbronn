@@ -1,19 +1,12 @@
 # 42Heilbronn
 
-
-	-	**Born2beroot**												: Setting up a Linux environment on a Virtual Maschine
-
-	Upcoming Project:  
-	-	**[Webserv] : This is when you finally understand why a URL starts with HTTP
-	-	**[C++ Module05-09]
-	-	**[ft_transcendence] : Surprise.
-
 ## :file_cabinet:  Projects:
 
 Projects in C| Repo link | Description
 --- | --- | ---
 ![libft_img](https://github.com/B18a/42-project-badges/blob/main/badges/libftm.png) | **[Libft](https://github.com/B18a/42_libft)** |  **Your very first own library - This project is about coding a C library**
 ![ft_printf_img](https://github.com/B18a/42-project-badges/blob/main/badges/ft_printfe.png) | **[ft_printf](https://github.com/B18a/42_ft_printf)** | **Recoding printf to discover variadic functions in C**
+![ft_printf_img](https://github.com/B18a/42-project-badges/blob/main/badges/born2beroote.png)| Borntoberoot| **Setting up a Linux environment on a Virtual Maschine**
 ![get_next_line_img](https://github.com/B18a/42-project-badges/blob/main/badges/get_next_linem.png) | **[get_next_line](https://github.com/B18a/42_get_next_line)** | **This project is about programming a function that returns a line read from a file descriptor**
 ![minitalk_img](https://github.com/B18a/42-project-badges/blob/main/badges/minitalkm.png) | **[minitalk](https://github.com/B18a/42_minitalk)** | **The purpose of this project is to code a small data exchange program using UNIX signals**
 ![push_swap_img](https://github.com/B18a/42-project-badges/blob/main/badges/push_swapm.png) | **[push_swap](https://github.com/B18a/42_push_swap)** | **This project will make you sort data on a stack, with a limited set of instructions, using the lowest possible number of actions choosing an appropiate algorithm**
@@ -22,12 +15,9 @@ Projects in C| Repo link | Description
 ![minishell_img](https://github.com/B18a/42-project-badges/blob/main/badges/minishelle.png) | **[minishell](https://github.com/B18a/42_minishell)** | **This project is about creating a simple shell - similar to Bash**
 ![cub3d_img](https://github.com/B18a/42-project-badges/blob/main/badges/cub3dm.png) | **[Cub3D](https://github.com/B18a/42_cub3d)** | **My first RayCaster with miniLibX**
 ![inception_img](https://github.com/B18a/42-project-badges/blob/main/badges/inceptionm.png) | **[Inception](https://github.com/B18a/42_Inception)** | **One Container is not enough - We need to go deeper**
-![cpp_img](https://github.com/B18a/42-project-badges/blob/main/badges/cppm.png)) | **[C++ Module00-04](https://github.com/B18a/42_cpp)** | **Getting started with C++ - basic syntax, pointers and references, orthodox canonical classes, inheritance, polymorphism, overloads, abstract classes and interfaces**
-
-
-
-
-
-
-
+![cpp_img](https://github.com/B18a/42-project-badges/blob/main/badges/cppm.png) | **[C++ Module00-04](https://github.com/B18a/42_cpp)** | **Getting started with C++ - basic syntax, pointers and references, orthodox canonical classes, inheritance, polymorphism, overloads, abstract classes and interfaces**
+Upcomming Projects
+![cpp_img](https://github.com/B18a/42-project-badges/blob/main/badges/cppm.png) | **C++ Module05-09** | **Continuing with cppp**
+![webserv_img](https://github.com/B18a/42-project-badges/blob/main/badges/webserve.png)| **[Webserv]** | **This is when you finally understand why a URL starts with HTTP**
+![transcendence_img](https://github.com/B18a/42-project-badges/blob/main/badges/ft_transcendencee.png)| **[ft_transcendence]** | **Surprise**
 
