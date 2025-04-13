@@ -20,6 +20,6 @@ Projects in C| Repo link | Description
 ![cpp_img](https://github.com/B18a/42-project-badges/blob/main/badges/cppm.png) | **[C++ Module00-04](https://github.com/B18a/42_cpp)** | **Getting started with C++ - basic syntax, pointers and references, orthodox canonical classes, inheritance, polymorphism, overloads, abstract classes and interfaces**
 Upcomming Projects
 ![cpp_img](https://github.com/B18a/42-project-badges/blob/main/badges/cppm.png) | **[C++ Module05-09](https://github.com/B18a/42_cpp_part2)** | **Continuing with cppp - try and catch, casts, templates and containers**
-![webserv_img](https://github.com/B18a/42-project-badges/blob/main/badges/webserve.png)| **[Webserv]** | **This is when you finally understand why a URL starts with HTTP**
+![webserv_img](https://github.com/B18a/42-project-badges/blob/main/badges/webserve.png)| **[Webserv](https://github.com/B18a/WebServer)** | **This is when you finally understand why a URL starts with HTTP**
 ![transcendence_img](https://github.com/B18a/42-project-badges/blob/main/badges/ft_transcendencee.png)| **[ft_transcendence]** | **Surprise**
 
